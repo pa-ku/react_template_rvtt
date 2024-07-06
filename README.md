@@ -1,4 +1,4 @@
-# <img width="30px" height="30px" src="https://raw.githubusercontent.com/pa-ku/react_template_rvtt/main/public/favicon.webp"> VRTT
+# <img width="30px" height="30px" src="https://raw.githubusercontent.com/pa-ku/react_template_rvtt/main/public/favicon.webp"> RVTT
 __Vite + React + Tailwind + Typescript__, and a little prettier
 <br>
 Template limpio, minimalista y configurado
