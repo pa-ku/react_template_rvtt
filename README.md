@@ -6,7 +6,7 @@ Template limpio, minimalista y configurado
 ## Instalación
 
 ```console
-git clone --depth 1 https://github.com/pa-ku/react_template_rvtt.git .
+git clone --depth 1 https://github.com/pa-ku/rvtt_template.git .
 ```
 ```console
 npm install
@@ -14,6 +14,11 @@ npm install
 Puedes elegir el nombre de la carpeta en al que se instala, colocando el nombre al final de la linea de codigo
 
 
+## Utilizando degit
+
+````console
+degit pa-ku/rvtt_template
+````
 
 ## Caracteristicas:
 - __Prettier tailwind formatter__: Ordena automaticamente las clases de tailwind al formatear con prettier
