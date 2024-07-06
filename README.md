@@ -7,3 +7,15 @@ Caracteristicas:
 - prettier configurado
 - linter configurado
 - clases basicas de colores,  primary y secundary para definir la paleta de colores
+
+## Instalación
+
+```` console
+git clone --depth 1 https://github.com/pa-ku/react_template_rvtt.git .
+````
+Puedes elegir el nombre de la carpeta a la que se instala al final de la linea de codigo
+
+#### Para instalar los paquetes ejecuta
+````console
+npm install
+````
