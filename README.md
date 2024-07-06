@@ -1,4 +1,4 @@
-# Vite React Tailwind
+# VRTT : Vite + React + Tailwind + Typescript
 
 Un template limpio y minimalista con solo lo necesario y configurado
 
