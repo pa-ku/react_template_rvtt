@@ -7,3 +7,7 @@ Caracteristicas:
 - prettier configurado
 - linter configurado
 - clases basicas de colores,  primary y secundary para definir la paleta de colores
+
+
+
+git clone --depth 1 https://github.com/pa-ku/react_template_rvtt.git
