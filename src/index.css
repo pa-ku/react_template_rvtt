@@ -2,7 +2,31 @@
 @tailwind components;
 @tailwind utilities;
 
-*, *::before, *::after {
- box-sizing: border-box;
-margin:0; 
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+:root {
+  --primary-100: #d1e9ff;
+  --primary-200: #add8ff;
+  --primary-300: #8ac6ff;
+  --primary-400: #66b5ff;
+  --primary-500: #42a4ff;
+  --primary-600: #1f93ff;
+  --primary-700: #0081fa;
+  --primary-800: #006fd6;
+  --primary-900: #005cb3;
+
+  --secundary-100: #efd1ff;
+  --secundary-200: #e2adff;
+  --secundary-300: #d68aff;
+  --secundary-400: #c966ff;
+  --secundary-500: #bd42ff;
+  --secundary-600: #b01fff;
+  --secundary-700: #a200fa;
+  --secundary-800: #8b00d6;
+  --secundary-900: #7400b3;
 }
