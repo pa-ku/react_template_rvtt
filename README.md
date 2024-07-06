@@ -1,26 +1,21 @@
 # VRTT : Vite + React + Tailwind + Typescript
 
-Un template limpio y minimalista con solo lo necesario y configurado
+Template limpio, minimalista y configurado
 
 ## Instalación
 
 ```console
 git clone --depth 1 https://github.com/pa-ku/react_template_rvtt.git .
 ```
-
-Puedes elegir el nombre de la carpeta a la que se instala al final de la linea de codigo
-
-#### Para instalar los paquetes ejecuta
-
 ```console
 npm install
 ```
+Puedes elegir el nombre de la carpeta en al que se instala, colocando el nombre al final de la linea de codigo
+
+
 
 ## Caracteristicas:
 
-### Tailwind
-- Configurado el formateo de las clases de tailwind
-- Colores primary y secundary extendido y creadas las variables en el css para modificarlos facilmente
-
-- prettier configurado
-- linter configurado
+- __Prettier tailwind formatter__:
+- __Colores extendidos__: las clases primary y secundary con sus rangos de 100 a 900, pueden ser configuradas desde la las variables de css en __index.css__
+- __eslint configurado__
